@@ -1,1 +1,3 @@
-print(hello  all)
+a = 10
+b = 20
+a+b
